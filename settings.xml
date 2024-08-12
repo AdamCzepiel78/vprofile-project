@@ -26,7 +26,7 @@
 <mirrors>
   <mirror>
     <id>codeartifact</id>
-    <name>domainname--maven-central-store</name>
+    <name>aczepielde--maven-central-store</name>
     <url>https://aczepielde-354047205574.d.codeartifact.eu-central-1.amazonaws.com/maven/maven-central-store/</url>
     <mirrorOf>*</mirrorOf>
   </mirror>
