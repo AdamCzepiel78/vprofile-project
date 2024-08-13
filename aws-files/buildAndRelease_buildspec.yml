@@ -24,10 +24,7 @@ phases:
   build:
     commands:
       - mvn clean install -DskipTests
-  post_build: 
-    commands:
-      - mv target/vprofile-v2.war target/ROOT.war
 artifacts:
   files:
-     - target/ROOT.war
-  discard-paths: yes
+     - "**/*"
+  base-directory: "target/vprofile-v2"
