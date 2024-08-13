@@ -207,7 +207,7 @@
       <repository>
         <id>codeartifact</id>
         <name>codeartifact</name>
-    <url>https://aczepielde-354047205574.d.codeartifact.eu-central-1.amazonaws.com/maven/vprofile-maven-repo/</url>
+        <url>https://aczepielde-354047205574.d.codeartifact.eu-central-1.amazonaws.com/maven/vprofile-maven-repo/</url>
       </repository>
     </repositories>
 </project>
